@@ -1,15 +1,12 @@
-import React from "react"
-import General from "../components/General"
-import { Unigrid } from "../unigrid"
+import React from "react";
+import General from "../components/General";
+
 
 function App() {
     return (
         <div>
             <General />
-            <Unigrid />
         </div>
-
-
 
     )
 }
