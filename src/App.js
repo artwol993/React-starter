@@ -1,5 +1,5 @@
 import React from "react";
-import General from "../components/General";
+import General from "../components/general";
 
 
 function App() {
